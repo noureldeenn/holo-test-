@@ -22,7 +22,7 @@ const Search = (props: SearchProps) => {
     };
 
     return (
-        <div className="relative w-full text-gray-600">
+        <div className="relative w-full text-gray-600 mr-20">
             <input
                 type="search"
                 name="search"
